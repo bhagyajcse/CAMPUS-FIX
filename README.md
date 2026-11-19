@@ -14,7 +14,7 @@ Campus facility issues—such as broken projectors, leaking washroom taps, fault
 
 ---
 
-## Key Features
+## Key Features of the project
 
 - **AI Vision Fault Triage**: Uses Google Gemini Vision (`@google/genai`) on the backend to classify uploaded issue photos into campus categories (Projector, Plumbing, Electrical/Fan, Electrical Hazard, Network/Wi-Fi, Furniture, Other) with a confidence score and severity rating. Unclear photos trigger a request for a clearer image before dispatch.
 - **Electrical Hazard Safety Escalation**: Exposed wires or sparking hazards are flagged immediately with safety warnings and assigned a **Critical (1-hour SLA)** priority.
