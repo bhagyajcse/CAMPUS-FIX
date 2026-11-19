@@ -1,7 +1,6 @@
 # CampusFix — Smart Campus Facility Request Agent (PS 36)
 
 
-
 ## Introduction
 
 Campus facility issues—such as broken projectors, leaking washroom taps, faulty ceiling fans, exposed electrical wires, and Wi-Fi dead zones—are commonly reported through informal channels like WhatsApp messages, phone calls, or verbal complaints to faculty. As a result:
