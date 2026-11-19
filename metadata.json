@@ -1,0 +1,6 @@
+{
+  "name": "CampusFix",
+  "description": "Smart Campus Facility Request Agent (PS 36) — AI multimodal maintenance triage, duplicate detection, automated team routing, SLA tracking, and weekly facility health reporting.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
